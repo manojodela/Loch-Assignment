@@ -1,4 +1,4 @@
-Hosted live site:  loch-design.netlify.app
+Hosted live site:  https://loch-design.netlify.app
 
 # Getting Started with Create React App
 
